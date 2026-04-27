@@ -1,5 +1,5 @@
 # PowerShell Script to Download RMP Tracker Files from GitHub
-# Run this from: C:\Users\jmj2z\Projects\Claude projects\Maco Analysis
+# Run this from: C:\Users\Jeremy\Projects\Claude projects\Maco Analysis
 
 Write-Host "================================================" -ForegroundColor Cyan
 Write-Host "Downloading RMP Liquidity Tracker Files" -ForegroundColor Cyan
